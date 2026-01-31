@@ -15,27 +15,33 @@ The application is organized following the **Model–View–Controller** pattern
 assig4_web2/
 ├── config/
 │   └── db.js
+│
 ├── models/
 │   ├── User.js
 │   ├── Trip.js
 │   └── Booking.js
+│
 ├── controllers/
 │   ├── authController.js
 │   ├── tripController.js
 │   └── bookingController.js
+│
 ├── routes/
 │   ├── authRoutes.js
 │   ├── tripRoutes.js
 │   └── bookingRoutes.js
+│
 ├── middleware/
 │   ├── authMiddleware.js
 │   └── adminMiddleware.js
+│
 ├── frontend/
 │   ├── auth.html
 │   ├── trips.html
 │   ├── style.css
 │   ├── auth.js
 │   └── trips.js
+│
 ├── server.js
 ├── .env
 └── README.md
