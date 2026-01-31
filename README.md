@@ -141,6 +141,7 @@ http://localhost:3000
 
 ```
 ⸻
+```
 
 API Testing (Postman)
 
@@ -154,6 +155,7 @@ Screenshots demonstrating:
 will be added below.
 
 Postman Screenshots
+```
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/64548094-f29a-40ae-9f59-c3df5be7aae7" />
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a3767f19-6bac-49f9-a438-c764b9fbba21" />
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/24c14c8b-39c6-40e0-8d59-d394bd51197f" />
@@ -164,6 +166,7 @@ Postman Screenshots
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b6f55098-1142-4764-bdbc-472381325306" />
 
 
+```
 
 ⸻
 
@@ -176,3 +179,4 @@ Assignment Requirements Coverage
 	•	Simple frontend integration
 
 ⸻
+```
