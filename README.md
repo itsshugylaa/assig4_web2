@@ -121,7 +121,7 @@ A simple frontend is included to demonstrate interaction with the backend API.
 ## How to Run the Project
 
 ### 1. Install dependencies
-```bash
+```
 npm install
 
 2. Configure environment variables
@@ -139,7 +139,7 @@ node server.js
 
 http://localhost:3000
 
-
+```
 ⸻
 
 API Testing (Postman)
