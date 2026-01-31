@@ -44,8 +44,7 @@ assig4_web2/
 │   └── trips.js
 │
 ├── server.js
-├── .env
-└── README.md
+└── .env
 
 ```
 ---
@@ -155,14 +154,14 @@ Screenshots demonstrating:
 will be added below.
 
 Postman Screenshots
-<img width="1440" height="900" alt="Снимок экрана 2026-01-31 в 17 47 55" src="https://github.com/user-attachments/assets/aebb4178-7675-4f91-9960-3c5d899f0866" />
-<img width="1440" height="900" alt="Снимок экрана 2026-01-31 в 17 51 49" src="https://github.com/user-attachments/assets/ef75f610-6074-4ce7-84dc-4e55af9d19b0" />
-<img width="1440" height="900" alt="Снимок экрана 2026-01-31 в 17 52 07" src="https://github.com/user-attachments/assets/4e8d3365-10ae-4a57-a028-3d18d654caf4" />
-<img width="1440" height="900" alt="Снимок экрана 2026-01-31 в 17 52 20" src="https://github.com/user-attachments/assets/41368ab0-2e85-40a6-8d2c-8bd151ba15bb" />
-<img width="1440" height="900" alt="Снимок экрана 2026-01-31 в 17 52 33" src="https://github.com/user-attachments/assets/b9a97953-9cff-47c4-ab1a-148721c47c04" />
-<img width="1440" height="900" alt="Снимок экрана 2026-01-31 в 17 52 46" src="https://github.com/user-attachments/assets/87de7dbf-9170-4338-bbe5-74f169bf606a" />
-<img width="1440" height="900" alt="Снимок экрана 2026-01-31 в 17 53 00" src="https://github.com/user-attachments/assets/04ba3bde-5c2d-4f2e-9ffb-a701bc5e8bda" />
-<img width="1440" height="900" alt="Снимок экрана 2026-01-31 в 17 53 13" src="https://github.com/user-attachments/assets/97ff5374-f5e0-438a-bd4c-95acaa3534ba" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/64548094-f29a-40ae-9f59-c3df5be7aae7" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a3767f19-6bac-49f9-a438-c764b9fbba21" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/24c14c8b-39c6-40e0-8d59-d394bd51197f" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/492964f9-63c3-4f5b-b76c-80524da79635" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/7584ca65-7237-4b36-ba11-c5b2e15cb048" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8c501f3d-ff15-4a8c-8ea4-98600773186d" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/64a0c449-7305-4428-8070-ab0cda28859e" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b6f55098-1142-4764-bdbc-472381325306" />
 
 
 
