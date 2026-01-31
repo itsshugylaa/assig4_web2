@@ -12,6 +12,7 @@ The project represents a simple **Travel Booking System** where users can view a
 ## Project Structure
 The application is organized following the **Model–View–Controller** pattern.
 
+```
 assig4_web2/
 ├── config/
 │   └── db.js
@@ -46,6 +47,7 @@ assig4_web2/
 ├── .env
 └── README.md
 
+```
 ---
 
 ## Main Objects
